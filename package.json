@@ -1,0 +1,20 @@
+{
+  "name": "node-osmium",
+  "version": "0.0.1",
+  "description": "Janky node bindings for osmium",
+  "homepage": "https://github.com/bikehopper/node-osmium#readme",
+  "bugs": {
+    "url": "https://github.com/bikehopper/node-osmium/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikehopper/node-osmium.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "mkdir": "node make-platform-dir.js"
+  }
+}
